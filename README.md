@@ -1,0 +1,1 @@
+QR (Quick Response) codes can store lots of data, and users can easily access the information by scanning the QR code. In my QR generator app, users can enter a text or URL to generate a QR code for it.
